@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beritamaxwin.github.io/sitemap.xml
